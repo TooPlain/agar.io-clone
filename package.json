@@ -36,7 +36,7 @@
   "dependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
-    "babel-preset-env": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
     "chai": "^3.5.0",
     "express": "^4.13.4",
     "gulp": "^3.9.1",
@@ -57,5 +57,8 @@
     "webpack": "^1.4.0",
     "webpack-stream": "^3.2.0",
     "mysql": "^2.5.5"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
   }
 }
